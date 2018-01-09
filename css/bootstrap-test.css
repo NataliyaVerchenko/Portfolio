@@ -179,13 +179,13 @@ hr{
   /*  margin-right: 2.45%;*/
     float: left;
     max-width: 100%;
-    height: 292px;
+    height: 460px;
     overflow: hidden;
     margin: auto;
 }
 .image_zoom img  {
     max-width: 100%;
-    height: 292px;
+    height: 460px;
     -moz-transition: all 1s ease-out;
     -o-transition: all 1s ease-out;
     -webkit-transition: all 1s ease-out;
@@ -224,7 +224,7 @@ margin-top: 20px;}
      /*	footer  find me
      /*-----------------------------------------------------------------------------------*/
 #lg{
-    background:#e0e0e0 ;
+    background: #ffffff;
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center;
@@ -238,6 +238,8 @@ margin-top: 20px;}
     line-height: 20px;
     padding-bottom: 10px;
     display: inline-block;
+    margin-left: 20px;
+    color: #f2f2f2;
 }
 #lg i:focus,#lg i:hover{
     color: #a6144d;
